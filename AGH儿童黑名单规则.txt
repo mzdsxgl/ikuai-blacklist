@@ -1292,3 +1292,5 @@
 ||zuidazy.me^
 ||zy.ataoju.com^
 ||zy.yilans.net^
+# 新增（2026-08-08，由桌面「阅读」书源提取）：poyq.com 根域整站封
+||poyq.com^

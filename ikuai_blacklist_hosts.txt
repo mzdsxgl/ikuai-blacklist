@@ -1286,3 +1286,5 @@
 0.0.0.0 zuidazy.me
 0.0.0.0 zy.ataoju.com
 0.0.0.0 zy.yilans.net
+# 新增（2026-08-08，由桌面「阅读」书源提取）：poyq.com 根域整站封
+0.0.0.0 poyq.com
