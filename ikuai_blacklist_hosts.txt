@@ -1302,7 +1302,6 @@
 0.0.0.0 api.kkmh.com
 0.0.0.0 api.wan123x.com
 0.0.0.0 app.4kwo.com
-0.0.0.0 archive.org
 0.0.0.0 book.mywebos.cn
 0.0.0.0 book.sbkk8.com
 0.0.0.0 book.tiexue.net
@@ -1364,7 +1363,6 @@
 0.0.0.0 moetu.club
 0.0.0.0 myself-bbs.com
 0.0.0.0 n.novelia.cc
-0.0.0.0 newsmiss.lofter.com
 0.0.0.0 novelnext.net
 0.0.0.0 novelsdk.hhlqilongzhu.cn
 0.0.0.0 rawkuma.com
@@ -1373,7 +1371,6 @@
 0.0.0.0 ruarourou.top
 0.0.0.0 shasha.one
 0.0.0.0 so.itingwa.com
-0.0.0.0 ss.apps.dj
 0.0.0.0 ttk.tw
 0.0.0.0 ttks.tw
 0.0.0.0 v.ikanbot.com
@@ -1385,7 +1382,6 @@
 0.0.0.0 www.279txt.com
 0.0.0.0 www.28lu.net
 0.0.0.0 www.37yq.com
-0.0.0.0 www.52pojie.cn
 0.0.0.0 www.52shuku123.cc
 0.0.0.0 www.6mj.com
 0.0.0.0 www.78497.com
@@ -1419,7 +1415,6 @@
 0.0.0.0 www.i25zw.com
 0.0.0.0 www.ibus233.com
 0.0.0.0 www.iqiyi.com
-0.0.0.0 www.jianguoyun.com
 0.0.0.0 www.jingzhi5.com
 0.0.0.0 www.jinyongwang.net
 0.0.0.0 www.jiuhuaiwenxue.com
@@ -1436,7 +1431,6 @@
 0.0.0.0 www.maojiuxs.com
 0.0.0.0 www.mianhuatang8.net
 0.0.0.0 www.mkzhan.com
-0.0.0.0 www.mkzhan.comhaxc
 0.0.0.0 www.ncat1.app
 0.0.0.0 www.pilisf.com
 0.0.0.0 www.qdm66.com
@@ -1461,7 +1455,6 @@
 0.0.0.0 www.yikm.net
 0.0.0.0 www.yodu.org
 0.0.0.0 www.yuedsk.com
-0.0.0.0 www.yuque.com
 0.0.0.0 www.yydsmh.com
 0.0.0.0 www.zei8.me
 0.0.0.0 www.zei8.vip

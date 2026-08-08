@@ -1307,7 +1307,6 @@
 ||api.kkmh.com^
 ||api.wan123x.com^
 ||app.4kwo.com^
-||archive.org^
 ||book.mywebos.cn^
 ||book.sbkk8.com^
 ||book.tiexue.net^
@@ -1369,7 +1368,6 @@
 ||moetu.club^
 ||myself-bbs.com^
 ||n.novelia.cc^
-||newsmiss.lofter.com^
 ||novelnext.net^
 ||novelsdk.hhlqilongzhu.cn^
 ||rawkuma.com^
@@ -1378,7 +1376,6 @@
 ||ruarourou.top^
 ||shasha.one^
 ||so.itingwa.com^
-||ss.apps.dj^
 ||ttk.tw^
 ||ttks.tw^
 ||v.ikanbot.com^
@@ -1390,7 +1387,6 @@
 ||www.279txt.com^
 ||www.28lu.net^
 ||www.37yq.com^
-||www.52pojie.cn^
 ||www.52shuku123.cc^
 ||www.6mj.com^
 ||www.78497.com^
@@ -1424,7 +1420,6 @@
 ||www.i25zw.com^
 ||www.ibus233.com^
 ||www.iqiyi.com^
-||www.jianguoyun.com^
 ||www.jingzhi5.com^
 ||www.jinyongwang.net^
 ||www.jiuhuaiwenxue.com^
@@ -1441,7 +1436,6 @@
 ||www.maojiuxs.com^
 ||www.mianhuatang8.net^
 ||www.mkzhan.com^
-||www.mkzhan.comhaxc^
 ||www.ncat1.app^
 ||www.pilisf.com^
 ||www.qdm66.com^
@@ -1466,7 +1460,6 @@
 ||www.yikm.net^
 ||www.yodu.org^
 ||www.yuedsk.com^
-||www.yuque.com^
 ||www.yydsmh.com^
 ||www.zei8.me^
 ||www.zei8.vip^
